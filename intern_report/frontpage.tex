@@ -1,0 +1,83 @@
+\definecolor{rnspurple}{rgb}{0.25,0.04,0.43}
+\usetikzlibrary{calc}
+\SetBgScale{1}
+\SetBgAngle{0}
+\SetBgColor{white}
+\SetBgOpacity{1}
+\SetBgContents							% To apply page borders.
+{
+	\begin{tikzpicture}[overlay,remember picture]
+	\draw [line width=1.5pt]
+	($ (current page.north west) + (1.0cm,-1.0cm) $)
+	rectangle
+	($ (current page.south east) + (-1.0cm,1.0cm) $);
+	\end{tikzpicture}
+}
+
+\begin{titlingpage}
+	%\clearpage
+	\thispagestyle{empty}\centering
+	\pagecolor{rnspurple}\afterpage{\nopagecolor}
+	
+	\setlength{\toptafiddle}{1in}
+	\setlength{\bottafiddle}{1in}
+	\vspace*{-0.75in}
+	\enlargethispage{\toptafiddle}
+	\large 
+	\textbf{\color{white}VISVESVARAYA TECHNOLOGICAL UNIVERSITY\\
+		Jnana Sangama, Belagavi - 590 018}\\
+	\vspace{0.2cm}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[height=3cm]{images/vtu.png}
+	\end{figure}
+	\textbf{\color{white}Internship / Professional Practice Report}\\
+	{\color{white}on}\\
+	\Large{\textbf{\color{white}Title of the Project}}\\
+	\small{\textit{\textbf{\color{white}Submitted in partial fulfillment for the award of degree of}}}\\
+	
+	\vspace{0.2cm}
+	\textit{\textbf{\color{white}Bachelor of Engineering\\ in \\Electronics and Communication Engineering}}
+	\vspace{0.5cm}\\
+	\textbf{\color{white}Submitted by}
+
+	\begin{center}
+		\Large\textbf{\color{white}Student Name}\\
+		\Large\textbf{\color{white}USN}\\
+		
+		\textit{\color{white}Internship carried out at}\\
+		
+		\textit{\color{white}Company Name}\\
+	\end{center}
+	\vspace{0.3cm}
+	
+	\begin{minipage}[t]{0.3\textwidth}%
+		\Large\textbf{\color{white}Internal Guide}\\
+		\centering\large\textit{\color{white}Name of guide}\\
+		\centering\large\textit{\color{white}Designation}\\
+		
+		\centering\includegraphics[height=3 cm]{images/rns1.jpg}
+	\end{minipage}\hspace{6cm}
+	\begin{minipage}[t]{0.3\textwidth}%
+		\Large\textbf{\color{white}External Guide}\\
+		\centering\large\textit{\color{white}Name of guide}\\
+		\centering\large\textit{\color{white}Designation}\\
+		
+		\centering\includegraphics[height=3cm]{images/rns1.jpg}\\
+	\end{minipage}
+	
+	
+	
+	\begin{center}
+		\vspace{0.5cm}
+		\scriptsize\textbf{\color{white}DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING\\
+			\small(Accredited by NBA for the Academic Years 2018-19, 2019-20 and 2020-21)}\\
+		\vspace{0.5cm}
+		\small\textbf{\color{white}RNS INSTITUTE OF TECHNOLOGY\\
+			(AICTE Approved, VTU Affiliated and NAAC `A' accredited)\\
+			(UG Programs - CSE, ECE, ISE, EIE and EEE have been Accredited by NBA for the Academic Years 2018-19, 2019-20 and 2020-2021)\\
+			Channasandra,Dr.Vishnuvardhan Road,Bengaluru-560098\\
+			\vspace{0.5cm}
+			2019-20}
+	\end{center}
+\end{titlingpage}
