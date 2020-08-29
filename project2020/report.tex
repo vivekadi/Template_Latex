@@ -37,11 +37,20 @@
 \usepackage{xcolor}
 \usepackage{afterpage}
 \usepackage{background}
+\usepackage{amsmath}
+\usepackage{subcaption}
+\usepackage{rotating}
+\usepackage{tabularx}
+\usepackage{caption}
+\usepackage{mwe}
+\usepackage{lipsum}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{eso-pic,picture}
 
 
 
-\renewcommand{\afterchapternum}{\par\bigskip}
-\setlength{\beforechapskip}{-2\baselineskip}
+%\renewcommand{\afterchapternum}{\par\bigskip}
 %To reduce%the Chapter vertical height.
 
 
@@ -58,7 +67,7 @@
 	
 	%header specification
 	\setlength{\headheight}{\onelineskip}
-	\setlength{\headsep}{4pt}
+	\setlength{\headsep}{6pt}
 	\setlength{\topmargin}{-0.25in}
 	
 	%footer specification
@@ -77,7 +86,7 @@
 	
 	\pagenumbering{roman}
 	\pagestyle{plain}
-	%\include{abstract}
+	\include{abstract}
 	\include{acknowledge}
 	\include{abstract}
 	

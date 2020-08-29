@@ -16,7 +16,7 @@
 %%      
 %%      This program is distributed in the hope that it will be useful,
 %%      but WITHOUT ANY WARRANTY; without even the implied warranty of
-%%      MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See %%            the\include{abstract}
+%%      MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See %%            
 %%      GNU General Public License for more details.
 %%      
 %%      You should have received a copy of the GNU General Public License
@@ -36,12 +36,21 @@
 \usepackage{pdfpages}
 \usepackage{xcolor}
 \usepackage{afterpage}
-%\usepackage{background}
+\usepackage{background}
+\usepackage{amsmath}
+\usepackage{subcaption}
+\usepackage{rotating}
+\usepackage{tabularx}
+\usepackage{caption}
+\usepackage{mwe}
+\usepackage{lipsum}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{eso-pic,picture}
 
 
 
-\renewcommand{\afterchapternum}{\par\bigskip}
-\setlength{\beforechapskip}{-2\baselineskip}
+%\renewcommand{\afterchapternum}{\par\bigskip}
 %To reduce%the Chapter vertical height.
 
 
@@ -49,7 +58,7 @@
 \begin{document}
 \newlength{\toptafiddle} 
 \newlength{\bottafiddle}
-%\include{frontpage}
+\include{frontpage}
 \include{title}%include titlepage,i.e, title.tex file
 %Page layout according to VTU specification
 %Right=1.25in,left=1in, Top & Bottom 0.75in in each
@@ -58,7 +67,7 @@
 
 %header specification
 \setlength{\headheight}{\onelineskip}
-\setlength{\headsep}{4pt}
+\setlength{\headsep}{6pt}
 \setlength{\topmargin}{-0.25in}
 
 %footer specification
@@ -67,7 +76,7 @@
 
 %A4 paper height = 11.69in
 %thus 11.69in-9.67in-1in(top+header) is approx 0.75in left for bottom
-\setlength{\textheight}{9.60in}
+\setlength{\textheight}{9.67in}
 \brokenpenalty=10000
 \OnehalfSpacing
 
@@ -77,12 +86,12 @@
 
 \pagenumbering{roman}
 \pagestyle{plain}
-%\include{abstract}
+\include{abstract}
 \include{acknowledge}
-\include{executive_summary}
+\include{Executive_summary}
 
 
-\setcounter{secnumdepth}{3}%sections numbering upto 3 level
+\setcounter{secnumdepth}{2}%sections numbering upto 3 level
 \renewcommand{\contentsname}{Table of Contents}
 \tableofcontents
 \newpage
