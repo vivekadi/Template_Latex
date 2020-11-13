@@ -16,7 +16,7 @@
 %%      
 %%      This program is distributed in the hope that it will be useful,
 %%      but WITHOUT ANY WARRANTY; without even the implied warranty of
-%%      MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See %%            
+%%      MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See %%            the\include{abstract}
 %%      GNU General Public License for more details.
 %%      
 %%      You should have received a copy of the GNU General Public License
@@ -37,20 +37,11 @@
 \usepackage{xcolor}
 \usepackage{afterpage}
 \usepackage{background}
-\usepackage{amsmath}
-\usepackage{subcaption}
-\usepackage{rotating}
-\usepackage{tabularx}
-\usepackage{caption}
-\usepackage{mwe}
-\usepackage{lipsum}
-\usepackage{multirow}
-\usepackage{wrapfig}
-\usepackage{eso-pic,picture}
 
 
 
-%\renewcommand{\afterchapternum}{\par\bigskip}
+\renewcommand{\afterchapternum}{\par\bigskip}
+\setlength{\beforechapskip}{-2\baselineskip}
 %To reduce%the Chapter vertical height.
 
 
@@ -67,7 +58,7 @@
 
 %header specification
 \setlength{\headheight}{\onelineskip}
-\setlength{\headsep}{6pt}
+\setlength{\headsep}{4pt}
 \setlength{\topmargin}{-0.25in}
 
 %footer specification
@@ -76,7 +67,7 @@
 
 %A4 paper height = 11.69in
 %thus 11.69in-9.67in-1in(top+header) is approx 0.75in left for bottom
-\setlength{\textheight}{9.67in}
+\setlength{\textheight}{9.60in}
 \brokenpenalty=10000
 \OnehalfSpacing
 
@@ -86,12 +77,12 @@
 
 \pagenumbering{roman}
 \pagestyle{plain}
-\include{abstract}
+%\include{abstract}
 \include{acknowledge}
-\include{Executive_summary}
+\include{executive_summary}
 
 
-\setcounter{secnumdepth}{2}%sections numbering upto 3 level
+\setcounter{secnumdepth}{3}%sections numbering upto 3 level
 \renewcommand{\contentsname}{Table of Contents}
 \tableofcontents
 \newpage

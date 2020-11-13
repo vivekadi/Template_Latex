@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  10 AUG 2020 11:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  13 NOV 2020 13:45
 entering extended mode
 **./report.tex
 (report.tex
@@ -619,15 +619,279 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@partial=\box54
 \AP@footins=\box55
 )
+("E:\MiKTeX 2.9\tex/latex/background\background.sty"
+Package: background 2014/03/04 v2.1 background material
+
+("E:\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("E:\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
+("E:\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count322
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("E:\MiKTeX 2.9\tex/latex/pgf/frontendlayer\tikz.sty"
+("E:\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.sty"
+("E:\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrcs.sty"
+("E:\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen259
+\pgfutil@tempdimb=\dimen260
+
+("E:\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common-lists.tex"))
+("E:\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box56
+
+("E:\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("E:\MiKTeX 2.9\tex/generic/pgf/utilities\pgfrcs.code.tex"
+("E:\MiKTeX 2.9\tex/generic/pgf\pgf.revision.tex")
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+("E:\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgfcore.sty"
+("E:\MiKTeX 2.9\tex/latex/pgf/systemlayer\pgfsys.sty"
+("E:\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys.code.tex"
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+("E:\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+("E:\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen261
+\pgf@y=\dimen262
+\pgf@xa=\dimen263
+\pgf@ya=\dimen264
+\pgf@xb=\dimen265
+\pgf@yb=\dimen266
+\pgf@xc=\dimen267
+\pgf@yc=\dimen268
+\pgf@xd=\dimen269
+\pgf@yd=\dimen270
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count323
+\c@pgf@countb=\count324
+\c@pgf@countc=\count325
+\c@pgf@countd=\count326
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count327
+
+("E:\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgf.cfg"
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("E:\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+("E:\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("E:\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count328
+\pgfsyssoftpath@bigbuffer@items=\count329
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcore.code.tex"
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex"
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathcalc.code.tex"
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathutil.code.tex")
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen271
+\pgfmath@count=\count330
+\pgfmath@box=\box57
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.code.tex"
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex")
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex")
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.random.code.tex")
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex")
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.base.code.tex")
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.round.code.tex")
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex")
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.t
+ex"))) ("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count331
+))
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfint.code.tex")
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen272
+\pgf@picmaxx=\dimen273
+\pgf@picminy=\dimen274
+\pgf@picmaxy=\dimen275
+\pgf@pathminx=\dimen276
+\pgf@pathmaxx=\dimen277
+\pgf@pathminy=\dimen278
+\pgf@pathmaxy=\dimen279
+\pgf@xx=\dimen280
+\pgf@xy=\dimen281
+\pgf@yx=\dimen282
+\pgf@yy=\dimen283
+\pgf@zx=\dimen284
+\pgf@zy=\dimen285
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen286
+\pgf@path@lasty=\dimen287
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen288
+\pgf@shorten@start@additional=\dimen289
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count332
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen290
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen291
+\pgf@pt@y=\dimen292
+\pgf@pt@temp=\dimen293
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen294
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen295
+\pgf@sys@shading@range@num=\count333
+\pgf@shadingcount=\count334
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box61
+))
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("E:\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box62
+)
+("E:\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("E:\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen296
+\pgf@nodesepend=\dimen297
+)
+("E:\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+("E:\MiKTeX 2.9\tex/latex/pgf/utilities\pgffor.sty"
+("E:\MiKTeX 2.9\tex/latex/pgf/utilities\pgfkeys.sty"
+("E:\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"))
+("E:\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.sty"
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex"))
+("E:\MiKTeX 2.9\tex/generic/pgf/utilities\pgffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+("E:\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex")
+\pgffor@iter=\dimen298
+\pgffor@skip=\dimen299
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+("E:\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+("E:\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count335
+\pgfplotmarksize=\dimen300
+)
+\tikz@lastx=\dimen301
+\tikz@lasty=\dimen302
+\tikz@lastxsaved=\dimen303
+\tikz@lastysaved=\dimen304
+\tikz@lastmovetox=\dimen305
+\tikz@lastmovetoy=\dimen306
+\tikzleveldistance=\dimen307
+\tikzsiblingdistance=\dimen308
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count336
+\tikznumberofchildren=\count337
+\tikznumberofcurrentchild=\count338
+\tikz@fig@count=\count339
+
+("E:\MiKTeX 2.9\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count340
+\pgfmatrixcurrentcolumn=\count341
+\pgf@matrix@numberofcolumns=\count342
+)
+\tikz@expandcount=\count343
+
+("E:\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths
+.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) ("E:\MiKTeX 2.9\tex/latex/everypage\everypage.sty"
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+))
 ("E:\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count322
-\l__pdf_internal_box=\box56
+\l__kernel_color_stack_int=\count344
+\l__pdf_internal_box=\box67
 ) (report.aux
-(title.aux) (certificate.aux) (decleration.aux) (interncertificate.aux)
-(acknowledge.aux) (executive_summary.aux) (acronyms.aux) (introduction.aux)
-(chapter2.aux) (chapter3.aux) (chapter4.aux) (conclusion.aux) (reference.aux)
-(appendix.aux))
+(frontpage.aux) (title.aux) (certificate.aux) (decleration.aux)
+(interncertificate.aux) (acknowledge.aux) (executive_summary.aux) (acronyms.aux
+) (introduction.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux)
+(conclusion.aux) (reference.aux) (appendix.aux))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -646,19 +910,20 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
- ("E:\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+
+("E:\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count323
-\scratchdimen=\dimen259
-\scratchbox=\box57
-\nofMPsegments=\count324
-\nofMParguments=\count325
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count326
-\MPscratchDim=\dimen260
-\MPnumerator=\count327
-\makeMPintoPDFobject=\count328
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count345
+\scratchdimen=\dimen309
+\scratchbox=\box68
+\nofMPsegments=\count346
+\nofMParguments=\count347
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count348
+\MPscratchDim=\dimen310
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
+\everyMPtoPDFconversion=\toks44
 ) ("E:\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -698,7 +963,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box58
+\AtBeginShipoutBox=\box69
 Package hyperref Info: Link coloring OFF on input line 49.
 ("E:\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -709,7 +974,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ("E:\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count329
+\c@section@level=\count351
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -718,10 +983,10 @@ LaTeX Info: Redefining \ref on input line 49.
 LaTeX Info: Redefining \pageref on input line 49.
 LaTeX Info: Redefining \nameref on input line 49.
 (report.out) (report.out)
-\@outlinefile=\write4
-\openout4 = `report.out'.
+\@outlinefile=\write5
+\openout5 = `report.out'.
 
-\c@lstlisting=\count330
+\c@lstlisting=\count352
  ("E:\MiKTeX 2.9\tex/latex/pdflscape\pdflscape.sty"
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
@@ -730,17 +995,43 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
+ABD: EveryShipout initializing macros
 \toptafiddle=\skip195
 \bottafiddle=\skip196
+\openout2 = `frontpage.aux'.
+
+ (frontpage.tex
+("E:\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.co
+de.tex"
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+\GPT@outputbox=\box70
+<images/vtu.png, id=74, 301.125pt x 422.57875pt>
+File: images/vtu.png Graphic file (type png)
+<use images/vtu.png>
+Package pdftex.def Info: images/vtu.png  used on input line 32.
+(pdftex.def)             Requested size: 60.82584pt x 85.35826pt.
+<images/rns1.jpg, id=76, 504.38437pt x 558.58687pt>
+File: images/rns1.jpg Graphic file (type jpg)
+<use images/rns1.jpg>
+Package pdftex.def Info: images/rns1.jpg  used on input line 59.
+(pdftex.def)             Requested size: 77.0705pt x 85.35826pt.
+File: images/rns1.jpg Graphic file (type jpg)
+<use images/rns1.jpg>
+Package pdftex.def Info: images/rns1.jpg  used on input line 66.
+(pdftex.def)             Requested size: 77.0705pt x 85.35826pt.
+ [1
+
+
+{C:/Users/vivek/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/vt
+u.png> <./images/rns1.jpg>])
 \openout2 = `title.aux'.
 
  (title.tex
-<images/vtu.png, id=71, 301.125pt x 422.57875pt>
 File: images/vtu.png Graphic file (type png)
 <use images/vtu.png>
 Package pdftex.def Info: images/vtu.png  used on input line 16.
 (pdftex.def)             Requested size: 60.82584pt x 85.35826pt.
-<images/rns1.jpg, id=73, 504.38437pt x 558.58687pt>
 File: images/rns1.jpg Graphic file (type jpg)
 <use images/rns1.jpg>
 Package pdftex.def Info: images/rns1.jpg  used on input line 45.
@@ -749,11 +1040,16 @@ File: images/rns1.jpg Graphic file (type jpg)
 <use images/rns1.jpg>
 Package pdftex.def Info: images/rns1.jpg  used on input line 52.
 (pdftex.def)             Requested size: 77.0705pt x 85.35826pt.
- [1
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.69 \end{titlingpage}
+                       [1
 
 
-{C:/Users/vivek/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/vt
-u.png> <./images/rns1.jpg>])
+
+])
 \openout2 = `certificate.aux'.
 
  (certificate.tex
@@ -820,7 +1116,7 @@ Package pdftex.def Info: images/rns1.jpg  used on input line 24.
 \openout2 = `interncertificate.aux'.
 
  (interncertificate.tex
-<images/certificate.png, id=94, 295.1025pt x 432.11438pt>
+<images/certificate.png, id=100, 295.1025pt x 432.11438pt>
 File: images/certificate.png Graphic file (type png)
 <use images/certificate.png>
 Package pdftex.def Info: images/certificate.png  used on input line 5.
@@ -973,19 +1269,19 @@ ourceforge . net / apps / mediawiki /
 
 
 ]
-\tf@toc=\write5
-\openout5 = `report.toc'.
+\tf@toc=\write6
+\openout6 = `report.toc'.
 
-\tf@lof=\write6
-\openout6 = `report.lof'.
+\tf@lof=\write7
+\openout7 = `report.lof'.
 
-\tf@lot=\write7
-\openout7 = `report.lot'.
+\tf@lot=\write8
+\openout8 = `report.lot'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
- (report.aux (title.aux) (certificate.aux)
-(decleration.aux) (interncertificate.aux) (acknowledge.aux)
+ (report.aux (frontpage.aux) (title.aux)
+(certificate.aux) (decleration.aux) (interncertificate.aux) (acknowledge.aux)
 (executive_summary.aux) (acronyms.aux) (introduction.aux) (chapter2.aux)
 (chapter3.aux) (chapter4.aux) (conclusion.aux) (reference.aux) (appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
@@ -995,22 +1291,22 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 12480 strings out of 480930
- 182691 string characters out of 2916071
- 514298 words of memory out of 3000000
- 28034 multiletter control sequences out of 15000+200000
+ 22793 strings out of 480930
+ 403358 string characters out of 2916071
+ 708715 words of memory out of 3000000
+ 38107 multiletter control sequences out of 15000+200000
  540328 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,11n,45p,905b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,11n,64p,905b,1062s stack positions out of 5000i,500n,10000p,200000b,50000s
 <E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx9.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><E:/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmr12.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12
 .pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on report.pdf (17 pages, 602912 bytes).
+Output written on report.pdf (18 pages, 608500 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
+ 230 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 500000)
- 152 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 164 words of extra memory for PDF output out of 10000 (max. 10000000)
 
