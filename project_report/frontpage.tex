@@ -1,0 +1,78 @@
+\definecolor{rnspurple}{rgb}{0.25,0.04,0.43}
+\usetikzlibrary{calc}
+\SetBgScale{1}
+\SetBgAngle{0}
+\SetBgColor{white}
+\SetBgOpacity{1}
+\SetBgContents							% To apply page borders.
+{
+	\begin{tikzpicture}[overlay,remember picture]
+	\draw [line width=1.5pt]
+	($ (current page.north west) + (1.0cm,-1.0cm) $)
+	rectangle
+	($ (current page.south east) + (-1.0cm,1.0cm) $);
+	\end{tikzpicture}
+}
+
+\begin{titlingpage}
+	%\clearpage
+	\thispagestyle{empty}\centering
+	\pagecolor{rnspurple}\afterpage{\nopagecolor}
+	
+\setlength{\toptafiddle}{1in}
+\setlength{\bottafiddle}{1in}
+\vspace*{-0.75in}
+\enlargethispage{\toptafiddle}
+\large 
+\textbf{\color{white}VISVESVARAYA TECHNOLOGICAL UNIVERSITY\\
+	Jnana Sangama, Belagavi - 590 018}\\
+\vspace{0.2cm}
+\begin{figure}[h]
+	\centering
+	\includegraphics[height=3cm]{images/vtu.png}
+\end{figure}
+\small{\textbf{\color{white}PROJECT REPORT ON}}\\
+
+\LARGE{\textbf{\color{white}Title of the Project}}
+\vspace{0.5cm}
+
+\large \textit{\color{white}Thesis submitted in partial fulfillment for the Award of Degree of }{\textbf{\color{white}Bachelor of Engineering}}\\
+\color{white} in \\\textbf{\color{white}Electronics and Communication Engineering}
+\vspace{0.5cm}\\
+{\textbf{\color{white}Submitted by\\}}
+
+
+\begin{tabular}{lll}
+	
+\color{white}	Name1 & \hspace{5cm} & \color{white}1RN16EC\\
+\color{white}	Name2 &   & \color{white}1RN16EC\\
+\color{white}	Name3 &   & \color{white}1RN16EC\\
+\color{white}	Name4 &   & \color{white}1RN16EC\\
+	
+\end{tabular}
+\vspace{0.5cm}\\
+\textit{\color{white}Under the Guidance of}
+
+
+\Large{\textbf{\color{white}Name}}\\
+\textit{\color{white}Designation}\\
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[height=2.7cm]{images/rns1.jpg}
+\end{figure}
+
+
+\begin{center}
+	\scriptsize\textbf{\color{white}DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING}\\
+	\small\textbf{\color{white}(Accredited by NBA for the Academic years 2018-19, 2019-20 and 2020-21)}	
+\end{center}
+\begin{center}
+	\vspace{0.1cm}
+	\large\textbf{\color{white}RNS INSTITUTE OF TECHNOLOGY}\\
+	\small\textbf{\color{white}(AICTE Approved, VTU Affiliated and NAAC `A' Accredited)\\
+		(UG Programs - CSE, ECE, ISE, EIE and EEE have been Accredited by NBA for the Academic years 2018-19, 2019-20 and 2020-2021)\\
+		Channasandra, Dr.Vishnuvardhan Road, Bengaluru-560098\\
+		2019 - 20}
+\end{center}
+\end{titlingpage}
