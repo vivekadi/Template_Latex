@@ -1,2 +1,2 @@
-# Latex_Template2
+# Latex_Report_Template
  original version
