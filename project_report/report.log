@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  10 AUG 2020 11:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  28 NOV 2020 00:14
 entering extended mode
 **./report.tex
 (report.tex
@@ -1225,17 +1225,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
@@ -1270,7 +1265,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout2 = `introduction.aux'.
 
  (introduction.tex
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
@@ -1278,7 +1273,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 	\item[Chapter 3 :]
+l.34 	\item[Chapter 2 :]
                          [1
 
 
@@ -1286,7 +1281,7 @@ l.28 	\item[Chapter 3 :]
 ]
 File: images/rns1.jpg Graphic file (type jpg)
 <use images/rns1.jpg>
-Package pdftex.def Info: images/rns1.jpg  used on input line 40.
+Package pdftex.def Info: images/rns1.jpg  used on input line 47.
 (pdftex.def)             Requested size: 64.22542pt x 71.13188pt.
 )pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
  been already used, duplicate ignored
@@ -1379,22 +1374,23 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 22816 strings out of 480930
- 403496 string characters out of 2916071
- 708870 words of memory out of 3000000
- 38129 multiletter control sequences out of 15000+200000
- 541152 words of font info for 53 fonts, out of 3000000 for 9000
+ 22819 strings out of 480930
+ 403694 string characters out of 2916071
+ 708868 words of memory out of 3000000
+ 38131 multiletter control sequences out of 15000+200000
+ 541489 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,64p,766b,1068s stack positions out of 5000i,500n,10000p,200000b,50000s
-<E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx9.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb
-><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on report.pdf (19 pages, 482988 bytes).
+ <C:\Users\vivek\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1200.pk><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx9.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmti12.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on report.pdf (19 pages, 484156 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
+ 253 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)
  180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
