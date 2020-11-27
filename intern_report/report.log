@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  13 NOV 2020 13:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  28 NOV 2020 00:30
 entering extended mode
 **./report.tex
 (report.tex
@@ -1134,12 +1134,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
 
@@ -1155,11 +1150,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
@@ -1293,7 +1283,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
 Here is how much of TeX's memory you used:
  22793 strings out of 480930
  403358 string characters out of 2916071
- 708715 words of memory out of 3000000
+ 708713 words of memory out of 3000000
  38107 multiletter control sequences out of 15000+200000
  540328 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1304,7 +1294,7 @@ Here is how much of TeX's memory you used:
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmr12.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12
 .pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on report.pdf (18 pages, 608500 bytes).
+Output written on report.pdf (18 pages, 608821 bytes).
 PDF statistics:
  230 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 500000)
