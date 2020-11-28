@@ -1,5 +1,7 @@
 # Latex_Report_Template
 
+## Creators
+
 Copyright © 2020, Template Latex Report
 
 vivekadi <vivek.adishesha@gmail.com>,
@@ -12,9 +14,13 @@ sourav <souravadi1998@gmail.com>,
 suhas <suhasraikar46@gmail.com>,
 sumanthbhat <sumubhat123@gmail.com>
 
-This project contains files for the templates of 
-i) Project Report 
-ii) Intership Report 
+
+## Template
+
+This project contains files for the templates of:
+
+1. Project Report 
+2. Intership Report 
 
 for the Undergraduate study reports. The images and formatting are catered to 
 Visvesvaraya Technological University affiliated Institutions.
