@@ -13,6 +13,7 @@ Copyright © 2020, Template Latex Report
 - sourav <souravadi1998@gmail.com>,
 - suhas <suhasraikar46@gmail.com>,
 - sumanthbhat <sumubhat123@gmail.com>
+- vibharavi <vibha274@gmail.com>
 
 
 ## Template
