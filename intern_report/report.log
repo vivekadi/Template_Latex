@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  28 NOV 2020 00:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.23)  4 DEC 2020 09:20
 entering extended mode
 **./report.tex
 (report.tex
@@ -894,22 +894,22 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 (conclusion.aux) (reference.aux) (appendix.aux))
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 ("E:\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -964,7 +964,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box69
-Package hyperref Info: Link coloring OFF on input line 49.
+Package hyperref Info: Link coloring OFF on input line 51.
 ("E:\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -978,10 +978,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 49.
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
+LaTeX Info: Redefining \nameref on input line 51.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
 (report.out) (report.out)
 \@outlinefile=\write5
 \openout5 = `report.out'.
@@ -1006,12 +1006,12 @@ de.tex"
 File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 \GPT@outputbox=\box70
-<images/vtu.png, id=74, 301.125pt x 422.57875pt>
+<images/vtu.png, id=90, 301.125pt x 422.57875pt>
 File: images/vtu.png Graphic file (type png)
 <use images/vtu.png>
 Package pdftex.def Info: images/vtu.png  used on input line 32.
 (pdftex.def)             Requested size: 60.82584pt x 85.35826pt.
-<images/rns1.jpg, id=76, 504.38437pt x 558.58687pt>
+<images/rns1.jpg, id=92, 504.38437pt x 558.58687pt>
 File: images/rns1.jpg Graphic file (type jpg)
 <use images/rns1.jpg>
 Package pdftex.def Info: images/rns1.jpg  used on input line 59.
@@ -1088,7 +1088,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--62
  []
 
 )
-Overfull \hbox (126.77011pt too wide) in paragraph at lines 51--74
+Overfull \hbox (126.77011pt too wide) in paragraph at lines 51--76
 [][]  [] 
  []
 
@@ -1096,7 +1096,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.74 \include{certificate}
+l.76 \include{certificate}
                            [1
 
 
@@ -1116,7 +1116,7 @@ Package pdftex.def Info: images/rns1.jpg  used on input line 24.
 \openout2 = `interncertificate.aux'.
 
  (interncertificate.tex
-<images/certificate.png, id=100, 295.1025pt x 432.11438pt>
+<images/certificate.png, id=116, 295.1025pt x 432.11438pt>
 File: images/certificate.png Graphic file (type png)
 <use images/certificate.png>
 Package pdftex.def Info: images/certificate.png  used on input line 5.
@@ -1182,58 +1182,59 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 \openout2 = `introduction.aux'.
 
- (introduction.tex)pdfTeX warning (ext4): destination with the same identifier 
-(name{page.1}) has been already used, duplicate ignored
+ (introduction.texpdfTeX warning (ext4): destination with the same identifier (
+name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.106 \include{introduction}
-                             [1
+l.32 	\item E
+             xploring VNC system module of DirectFB and building it onto the...
+[1
 
 
 
-]
+])pdfTeX warning (ext4): destination with the same identifier (name{page.2}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.108 \include{introduction}
+                             [2]
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex)pdfTeX warning (ext4): destination with the same identifier (nam
-e{page.2}) has been already used, duplicate ignored
+e{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.107 \include{chapter2}
-                         [2
+l.109 \include{chapter2}
+                         [3
 
 
 
 ]
 \openout2 = `chapter3.aux'.
 
- (chapter3.tex)pdfTeX warning (ext4): destination with the same identifier (nam
-e{page.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.108 \include{chapter3}
-                         [3
+ (chapter3.tex) [4
 
 
 
 ]
 \openout2 = `chapter4.aux'.
 
- (chapter4.tex) [4
+ (chapter4.tex) [5
 
 
 
 ]
 \openout2 = `conclusion.aux'.
 
- (conclusion.tex) [5
+
+(conclusion.tex) [6
 
 
 
 ]
 \openout2 = `reference.aux'.
 
-
-(reference.tex
+ (reference.tex
 bibitemlist
 
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
@@ -1247,14 +1248,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 ourceforge . net / apps / mediawiki /
  []
 
-) [6
+) [7
 
 
 
 ]
 \openout2 = `appendix.aux'.
 
- (appendix.tex) [7
+ (appendix.tex) [8
 
 
 
@@ -1268,35 +1269,35 @@ ourceforge . net / apps / mediawiki /
 \tf@lot=\write8
 \openout8 = `report.lot'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  (report.aux (frontpage.aux) (title.aux)
 (certificate.aux) (decleration.aux) (interncertificate.aux) (acknowledge.aux)
 (executive_summary.aux) (acronyms.aux) (introduction.aux) (chapter2.aux)
 (chapter3.aux) (chapter4.aux) (conclusion.aux) (reference.aux) (appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 76C06510364A3D6B87895F1A936CD032;883.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+(rerunfilecheck)             Checksum: 21D3AFC82D1F78A3810C85441D3000D2;1099.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 22793 strings out of 480930
- 403358 string characters out of 2916071
- 708713 words of memory out of 3000000
- 38107 multiletter control sequences out of 15000+200000
+ 22804 strings out of 480930
+ 403484 string characters out of 2916071
+ 708818 words of memory out of 3000000
+ 38111 multiletter control sequences out of 15000+200000
  540328 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,64p,905b,1062s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,12n,64p,905b,1062s stack positions out of 5000i,500n,10000p,200000b,50000s
 <E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx9.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><E:/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmr12.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12
 .pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on report.pdf (18 pages, 608821 bytes).
+Output written on report.pdf (19 pages, 616889 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 164 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 258 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
